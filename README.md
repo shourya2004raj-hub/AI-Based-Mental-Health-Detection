@@ -1,1 +1,0 @@
-# AI-Based-Mental-Health-Detection
